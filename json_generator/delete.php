@@ -10,7 +10,7 @@ if($connection->connect_error){
     die("connection error");
 }
 
-$sql= "DELETE FROM moviooes WHERE id=2";
+$sql= "DELETE FROM movies WHERE id=2";
 
     $result=$connection->query($sql);
  if($result===TRUE){

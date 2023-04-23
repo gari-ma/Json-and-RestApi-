@@ -1,3 +1,0 @@
-JSON => Javascript  Object Notation (Arrays of object)
-
-how to give response in json is :: Rest Api 
